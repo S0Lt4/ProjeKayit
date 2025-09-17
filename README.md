@@ -11,7 +11,7 @@ Bot, **butonlar** ve **modal pencereler** (formlar) üzerinden kullanıcı etkil
 - 📡 **SQLite3** veritabanı desteği (kullanıcı bilgilerini kaydetmek için kullanılabilir)  
 - ⚡ Basit, hızlı ve geliştirilebilir bir yapı  
 
----
+---![image alt](https://github.com/S0Lt4/ProjeKayit/blob/b3698ed5aceb9f07ee830f7421c507d7157f3448/Screenshot%202025-09-17%20231849.png)
 
 ## 📂 Proje Yapısı
 
